@@ -1,3 +1,4 @@
+# test by juntzhang
 cubes:
   - name: line_items
     sql: SELECT * FROM 's3://cube-tutorial/line_items.csv'
