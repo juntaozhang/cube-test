@@ -1,5 +1,6 @@
 # test by juntzhang
 cubes:
+  # this is test desc by juntzhang in test branch
   - name: line_items
     sql: SELECT * FROM 's3://cube-tutorial/line_items.csv'
     public: false
